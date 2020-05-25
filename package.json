@@ -1,0 +1,13 @@
+{
+  "name": "sale-chain",
+  "version": "0.1.0",
+  "homepage": "./",
+  "private": true,
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "pify": "^4.0.1"
+  },
+  "devDependencies": {
+    "solc": "^0.4.26"
+  }
+}
